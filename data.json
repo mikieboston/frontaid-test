@@ -1,0 +1,15 @@
+{
+  "introHeader": "Welcome Text",
+  "introText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "overviewHeader": "Overview",
+  "overviewText": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+    "second. Darkness moveth shall there beginning male fill own fly. Herb was make, bearing, bring great make sixth forth god. It seas so created own you set. Saw over fly under abundantly third."
+  ],
+  "videoInline": "video/pixabay-mare-22183-1080p.mp4",
+  "videoInlinePoster": "video/pixabay-mare-22183.jpg",
+  "textOnlyHeader": "Text Only Content",
+  "textOnlyText": [
+    "Shows how text can be animated once scrolled to. Just nice and simple text. Nothing else! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Yent in culpa qui officia deserunt mollit anim id est laborum."
+  ]
+}
