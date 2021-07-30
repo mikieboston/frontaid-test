@@ -1,3 +1,7 @@
 {
-  "custom-field": "Title"
+  "custom-field": "Title",
+  "custom-object": {
+    "custom-line": "My object title",
+    "custom-text": "My object text"
+  }
 }
