@@ -12,10 +12,10 @@
     "custom-line": {
       ":type": "line"
     },
-    "custom-line": {
+    "custom-line-again": {
       ":type": "line"
     },
-    "custom-text": {
+    "custom-text-again": {
       ":type": "text"
     }
   },
