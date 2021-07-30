@@ -9,6 +9,12 @@
     "custom-line": {
       ":type": "line"
     },
+    "custom-line": {
+      ":type": "line"
+    },
+    "custom-line": {
+      ":type": "line"
+    },
     "custom-text": {
       ":type": "text"
     }
