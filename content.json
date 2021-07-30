@@ -3,5 +3,16 @@
   "custom-object": {
     "custom-line": "My object title",
     "custom-text": "My object text"
-  }
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "Third items"
+    },
+    {
+      "custom-list-item": "Next item here"
+    },
+    {
+      "custom-list-item": "Item 1 here"
+    }
+  ]
 }
